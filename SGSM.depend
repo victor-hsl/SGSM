@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1568949083 source:c:\users\usuario\desktop\trabalho jhonsos\sgsm\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1568947626 source:c:\users\usuario\desktop\trabalho jhonsos\sgsm\main.c
+	<stdio.h>
+	"menu.h"
+	"produto.h"
+	"cliente.h"
+	"compra.h"
+
+1567819573 c:\users\usuario\desktop\trabalho jhonsos\sgsm\menu.h
+
+1568903277 c:\users\usuario\desktop\trabalho jhonsos\sgsm\produto.h
+
+1568868058 c:\users\usuario\desktop\trabalho jhonsos\sgsm\cliente.h
+
+1568947084 c:\users\usuario\desktop\trabalho jhonsos\sgsm\compra.h
+
+1567819570 source:c:\users\usuario\desktop\trabalho jhonsos\sgsm\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"getch.h"
+
+1568949059 source:c:\users\usuario\desktop\trabalho jhonsos\sgsm\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1568949392 source:c:\users\usuario\desktop\trabalho jhonsos\sgsm\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"produto.h"
+
+1568949084 source:c:\users\a9133444\desktop\code2\sgsm\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1568949394 source:c:\users\a9133444\desktop\code2\sgsm\compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"produto.h"
+
+1568903278 c:\users\a9133444\desktop\code2\sgsm\produto.h
+
+1568947628 source:c:\users\a9133444\desktop\code2\sgsm\main.c
+	<stdio.h>
+	"menu.h"
+	"produto.h"
+	"cliente.h"
+	"compra.h"
+
+1567819574 c:\users\a9133444\desktop\code2\sgsm\menu.h
+
+1568868060 c:\users\a9133444\desktop\code2\sgsm\cliente.h
+
+1568947086 c:\users\a9133444\desktop\code2\sgsm\compra.h
+
+1567819572 source:c:\users\a9133444\desktop\code2\sgsm\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"getch.h"
+
+1568949060 source:c:\users\a9133444\desktop\code2\sgsm\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
